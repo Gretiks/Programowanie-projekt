@@ -1,0 +1,72 @@
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.exe
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.deps.json
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.runtimeconfig.json
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.dll
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.pdb
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.cache
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.lref
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.g.resources
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfoInputs.cache
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfo.cs
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.csproj.CoreCompileInputs.cache
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.dll
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\refint\VetManager.dll
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.pdb
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.genruntimeconfig.cache
+C:\Users\mtst2\Pulpit\polsl\C#\VetManager\VetManager\obj\Debug\net8.0-windows\ref\VetManager.dll
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.exe
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.deps.json
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.runtimeconfig.json
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.dll
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.pdb
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.g.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalView.g.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\App.g.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.cache
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.lref
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.baml
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalView.baml
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.g.resources
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfoInputs.cache
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfo.cs
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.csproj.CoreCompileInputs.cache
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.dll
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\refint\VetManager.dll
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.pdb
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.genruntimeconfig.cache
+C:\studia\Programowanie Obiektowe i Graficzne\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\ref\VetManager.dll
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.exe
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.deps.json
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.runtimeconfig.json
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.dll
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\bin\Debug\net8.0-windows\VetManager.pdb
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.g.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalView.g.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.cache
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager_MarkupCompile.lref
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.baml
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\AnimalView.baml
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.g.resources
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.dll
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\refint\VetManager.dll
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.pdb
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\VetManager.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\Projekt\VetManager\VetManager\obj\Debug\net8.0-windows\ref\VetManager.dll
