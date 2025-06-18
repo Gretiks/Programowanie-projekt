@@ -77,7 +77,7 @@ namespace VetManager.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VetManager;V1.0.0.0;component/view/animallistview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VetManager;component/view/animallistview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\AnimalListView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

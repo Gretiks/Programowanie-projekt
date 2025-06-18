@@ -55,7 +55,7 @@
         </StackPanel>
 
         <TextBlock Grid.Row="2" Grid.Column="0" FontSize="15" Text = "Wizyta"/>
-        <DatePicker Name="dtp_data" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <DatePicker Name="dtp_data" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
 
         <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Text="Godzina rozpoczęcia:"/>
         <TextBox Grid.Row="4" Grid.Column="2" Text=""/>
@@ -63,9 +63,9 @@
         <TextBox Grid.Row="4" Grid.Column="5" Text=""/>
         
         <TextBlock Grid.Row="6" Grid.Column="0" Text="Zwierze: "/>
-        <ComboBox Name ="cbx_animal" Grid.ColumnSpan="2" Grid.Row="3" Grid.Column="1"/>
+        <ComboBox Name ="cbx_animal" Grid.ColumnSpan="2" Grid.Row="6" Grid.Column="1"/>
         <TextBlock Grid.Row="6" Grid.Column="3" Text="Właściciel: "/>
-        <TextBox Grid.ColumnSpan="3" Grid.Row="3" Grid.Column="4" Text=""/>
+        <TextBox Grid.ColumnSpan="3" Grid.Row="6" Grid.Column="4" Text=""/>
 
         <TextBlock Grid.Row="8" Grid.Column="0" Text="Typ wizyty"/>
         <ComboBox Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="2" SelectedIndex="-1">

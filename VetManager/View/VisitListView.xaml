@@ -1,0 +1,61 @@
+﻿<Window x:Class="VetManager.View.VisitListView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VetManager.View"
+        mc:Ignorable="d"
+        Title="VisitListView" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Children>
+            <Grid Grid.ColumnSpan="2" Grid.IsSharedSizeScope="True" Margin="10,0,10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid HorizontalAlignment="Left">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition SharedSizeGroup="ButtonSize"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="VisitListBack" Content="Wróć"/>
+                </Grid>
+
+                <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Grid Margin="10,0,10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition SharedSizeGroup="ButtonSize"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="VisitListAdd" Content="Dodaj"/>
+                    </Grid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition SharedSizeGroup="ButtonSize"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="VisitListDelete" Content="Usuń"/>
+                    </Grid>
+                </StackPanel>
+                <!--Tu bym dodał serachbar na środku ale jeszcze nie wiem jak-->
+            </Grid>
+
+            <ListView Grid.Row="1">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="ID"/>
+                        <GridViewColumn Header="Data" Width="70"/>
+                        <GridViewColumn Header="Godzina rozpoczęcia" Width="120"/>
+                        <GridViewColumn Header="Godzina zakończenia" Width="120"/>
+                        <GridViewColumn Header="Zwierze" Width="60"/>
+                        <GridViewColumn Header="Właściciel" Width="70"/>
+                        <GridViewColumn Header="Typ wizyty" Width="70"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid.Children>
+    </Grid>
+</Window>

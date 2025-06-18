@@ -5,13 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VetManager.View"
         mc:Ignorable="d"
-        Title="Login" Height="200" Width="250">
+        Title="Login" Height="300" Width="500">
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="{Binding Warning, UpdateSourceTrigger=PropertyChanged}" Height="30" Foreground="Red"/>
+
             <Label Content="E-mail:"/>
-            <TextBox x:Name="login_mail_tbx"/>
+            <TextBox x:Name="login_mail_tbx" Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}" Width="300" />
             <Label Content="Hasło:"/>
-            <TextBox x:Name="login_passwd_tbx"/>
+            <TextBox x:Name="login_passwd_tbx" Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}" />
+            <Button  x:Name="login_button" Content="Zaloguj" Command="{Binding LogInCommand}" Margin="0,15,0,0"/>
         </StackPanel>
     </Grid>
 </Window>

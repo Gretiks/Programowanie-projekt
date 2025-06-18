@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\studia\\Programowanie Obiektowe i Graficzne\\Projekt\\VetManager\\VetManager\\VetManager.csproj": {}
+    "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\VetManager.csproj": {}
   },
   "projects": {
-    "C:\\studia\\Programowanie Obiektowe i Graficzne\\Projekt\\VetManager\\VetManager\\VetManager.csproj": {
+    "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\VetManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\studia\\Programowanie Obiektowe i Graficzne\\Projekt\\VetManager\\VetManager\\VetManager.csproj",
+        "projectUniqueName": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\VetManager.csproj",
         "projectName": "VetManager",
-        "projectPath": "C:\\studia\\Programowanie Obiektowe i Graficzne\\Projekt\\VetManager\\VetManager\\VetManager.csproj",
-        "packagesPath": "C:\\Users\\kubau\\.nuget\\packages\\",
-        "outputPath": "C:\\studia\\Programowanie Obiektowe i Graficzne\\Projekt\\VetManager\\VetManager\\obj\\",
+        "projectPath": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\VetManager.csproj",
+        "packagesPath": "C:\\Users\\Maciej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kubau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maciej\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +50,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
