@@ -17,12 +17,11 @@ namespace VetManager.View
     /// <summary>
     /// Interaction logic for LoginView.xaml
     /// </summary>
-    public partial class LoginView : Window
+    public partial class LoginView
     {
         public LoginView()
         {
             InitializeComponent();
-            this.DataContext = new VetManager.ViewModel.Login();
         }
     }
 }

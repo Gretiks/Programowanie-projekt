@@ -3,27 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\viewmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\viewmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditanimal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditanimal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditowner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditowner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditvisit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditvisit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\animallistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\animallistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\animalview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\animalview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\choiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\choiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\ownerlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\ownerlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\ownerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\ownerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\visitlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\visitlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\visitview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\visitview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\visitview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\visitview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\choiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\choiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditvisit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditvisit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditanimal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditanimal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\addeditowner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\addeditowner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\animallistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\animallistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\animalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\animalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\ownerlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\ownerlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\ownerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\ownerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\obj\\debug\\net8.0-windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\obj\\debug\\net8.0-windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maciej\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|c:\\users\\maciej\\desktop\\programing\\c#\\projekt\\programowanie-projekt\\vetmanager\\view\\visitlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0FD4B931-DE1A-4BD4-9753-84398BAD34D9}|VetManager\\VetManager.csproj|solutionrelative:vetmanager\\view\\visitlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,82 +98,285 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\AnimalView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\AnimalView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChoiceView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\ChoiceView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\ChoiceView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\ChoiceView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\ChoiceView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\LoginView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerListView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\OwnerListView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerListView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\OwnerListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OwnerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\OwnerView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\OwnerView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:01.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisitListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitListView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\VisitListView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitListView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\VisitListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisitView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\VisitView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\VisitView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditAnimal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditAnimal.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditAnimal.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditAnimal.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\AddEditAnimal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:20:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalListView.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\AnimalListView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalListView.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\AnimalListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:33.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditVisit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditVisit.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditVisit.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditVisit.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\AddEditVisit.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:37.189Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddEditOwner.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditOwner.xaml.cs",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditOwner.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditOwner.xaml.cs",
+              "RelativeToolTip": "VetManager\\View\\AddEditOwner.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisitView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\VisitView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitView.xaml",
+              "RelativeToolTip": "VetManager\\View\\VisitView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:20:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChoiceView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\ChoiceView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\ChoiceView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\ChoiceView.xaml",
+              "RelativeToolTip": "VetManager\\View\\ChoiceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:20:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEditOwner.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditOwner.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditOwner.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditOwner.xaml",
+              "RelativeToolTip": "VetManager\\View\\AddEditOwner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:20:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditVisit.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditVisit.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditVisit.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditVisit.xaml",
+              "RelativeToolTip": "VetManager\\View\\AddEditVisit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:20:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnimalListView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalListView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\AnimalListView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalListView.xaml",
+              "RelativeToolTip": "VetManager\\View\\AnimalListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:20:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnimalView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\AnimalView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AnimalView.xaml",
+              "RelativeToolTip": "VetManager\\View\\AnimalView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:19:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "VetManager\\View\\LoginView.xaml",
               "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\LoginView.xaml",
               "RelativeToolTip": "VetManager\\View\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-18T19:22:09.186Z",
+              "WhenOpened": "2025-06-19T19:19:52.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\ViewModel\\Login.cs",
-              "RelativeDocumentMoniker": "VetManager\\ViewModel\\Login.cs",
-              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\ViewModel\\Login.cs",
-              "RelativeToolTip": "VetManager\\ViewModel\\Login.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:21:33.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\App.xaml",
-              "RelativeDocumentMoniker": "VetManager\\App.xaml",
-              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\App.xaml",
-              "RelativeToolTip": "VetManager\\App.xaml",
+              "DocumentIndex": 19,
+              "Title": "OwnerListView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerListView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\OwnerListView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerListView.xaml",
+              "RelativeToolTip": "VetManager\\View\\OwnerListView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-18T19:15:32.154Z",
+              "WhenOpened": "2025-06-19T19:19:48.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\Maciej\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\Maciej\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs[Tylko do odczytu]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs[Tylko do odczytu]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:08:53.68Z",
-              "EditorCaption": "[Tylko do odczytu]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "VetManager\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
-              "RelativeToolTip": "VetManager\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAewD8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:08:44.615Z",
+              "DocumentIndex": 20,
+              "Title": "OwnerView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\OwnerView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\OwnerView.xaml",
+              "RelativeToolTip": "VetManager\\View\\OwnerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:19:40.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "VetManager\\View\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\MainWindow.xaml.cs",
-              "RelativeToolTip": "VetManager\\View\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T18:59:38.897Z",
+              "DocumentIndex": 21,
+              "Title": "VisitListView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitListView.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\VisitListView.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\VisitListView.xaml",
+              "RelativeToolTip": "VetManager\\View\\VisitListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:19:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditAnimal.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditAnimal.xaml",
+              "RelativeDocumentMoniker": "VetManager\\View\\AddEditAnimal.xaml",
+              "ToolTip": "C:\\Users\\Maciej\\Desktop\\programing\\C#\\Projekt\\Programowanie-projekt\\VetManager\\View\\AddEditAnimal.xaml",
+              "RelativeToolTip": "VetManager\\View\\AddEditAnimal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T19:19:27.057Z",
               "EditorCaption": ""
             }
           ]

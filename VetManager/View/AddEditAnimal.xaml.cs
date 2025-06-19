@@ -17,7 +17,7 @@ namespace VetManager.View
     /// <summary>
     /// Logika interakcji dla klasy AddEditAnimal.xaml
     /// </summary>
-    public partial class AddEditAnimal : Window
+    public partial class AddEditAnimal
     {
         public AddEditAnimal()
         {

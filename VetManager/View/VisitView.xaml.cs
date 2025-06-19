@@ -17,7 +17,7 @@ namespace VetManager.View
     /// <summary>
     /// Logika interakcji dla klasy VisitView.xaml
     /// </summary>
-    public partial class VisitView : Window
+    public partial class VisitView
     {
         public VisitView()
         {

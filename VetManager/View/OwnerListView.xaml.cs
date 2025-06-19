@@ -17,7 +17,7 @@ namespace VetManager.View
     /// <summary>
     /// Logika interakcji dla klasy OwnerListView.xaml
     /// </summary>
-    public partial class OwnerListView : Window
+    public partial class OwnerListView
     {
         public OwnerListView()
         {

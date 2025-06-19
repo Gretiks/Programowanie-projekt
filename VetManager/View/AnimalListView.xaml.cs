@@ -17,7 +17,7 @@ namespace VetManager.View
     /// <summary>
     /// Interaction logic for AnimalListView.xaml
     /// </summary>
-    public partial class AnimalListView : Window
+    public partial class AnimalListView
     {
         public AnimalListView()
         {

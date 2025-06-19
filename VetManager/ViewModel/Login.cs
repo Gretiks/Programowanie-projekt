@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using System.Windows.Input;
-using VetManager.Model;
 using VetManager.ViewModel.BaseClass;
 using MySql.Data.MySqlClient;
-using System.Data;
 using System.Diagnostics;
 
 namespace VetManager.ViewModel
@@ -21,6 +14,8 @@ namespace VetManager.ViewModel
         private string email;
         private string password;
         private string warning;
+
+        private readonly MainViewModel mainVm;
 
         public string Email
         {
@@ -41,10 +36,9 @@ namespace VetManager.ViewModel
 
         }
 
-
-
-        public Login()
+        public Login(MainViewModel mainVm)
         {
+            this.mainVm = mainVm;
             LogInCommand = new RelayCommand(LogIn, CanLogIn);
         }
 
@@ -83,6 +77,7 @@ namespace VetManager.ViewModel
                             {
                                 Debug.WriteLine("Dane poprawne, Logowanie");
                                 Warning = "";
+                                this.mainVm.ChangeView(new Choice());
                                 connection.Close();
                             }
                             else

@@ -81,7 +81,6 @@ C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\o
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.g.cs
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\AnimalView.g.cs
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\LoginView.g.cs
-C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\MainWindow.g.cs
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\OwnerListView.g.cs
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\OwnerView.g.cs
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\VisitListView.g.cs
@@ -95,7 +94,6 @@ C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\o
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\AnimalListView.baml
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\AnimalView.baml
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\LoginView.baml
-C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\MainWindow.baml
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\OwnerListView.baml
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\OwnerView.baml
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\VisitListView.baml
@@ -129,3 +127,9 @@ C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\b
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\VetManager.csproj.AssemblyReference.cache
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\VetManager.csproj.Up2Date
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\ChoiceView.g.cs
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\View\ChoiceView.baml
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\obj\Debug\net8.0-windows\App.baml

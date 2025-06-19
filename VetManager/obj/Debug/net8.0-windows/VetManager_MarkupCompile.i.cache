@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Maciej\Desktop\programing\C#\Projekt\Programowanie-projekt\VetManager\App.xaml
-111059228112
+12352550355
 
-312051770193
+36704362589
 206402655860
-View\AddEditAnimal.xaml;View\AddEditOwner.xaml;View\AddEditVisit.xaml;View\AnimalListView.xaml;View\AnimalView.xaml;View\LoginView.xaml;View\MainWindow.xaml;View\OwnerListView.xaml;View\OwnerView.xaml;View\VisitListView.xaml;View\VisitView.xaml;
+MainWindow.xaml;View\AddEditAnimal.xaml;View\AddEditOwner.xaml;View\AddEditVisit.xaml;View\AnimalListView.xaml;View\AnimalView.xaml;View\ChoiceView.xaml;View\LoginView.xaml;View\OwnerListView.xaml;View\OwnerView.xaml;View\VisitListView.xaml;View\VisitView.xaml;
 
 True
 
