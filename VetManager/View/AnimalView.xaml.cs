@@ -11,7 +11,6 @@ namespace VetManager.View
         public AnimalView()
         {
             InitializeComponent();
-            this.DataContext = new VetManager.ViewModel.PetsEdition();
         }
     }
 }

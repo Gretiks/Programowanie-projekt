@@ -1,4 +1,6 @@
-﻿using System.Windows;
+﻿using System.Diagnostics;
+using System.Windows;
+using VetManager.ViewModel;
 
 namespace VetManager.View
 {
@@ -10,7 +12,8 @@ namespace VetManager.View
         public ChoiceView()
         {
             InitializeComponent();
-            this.DataContext = new VetManager.ViewModel.Choice();
+            this.DataContext = new Choice(new MainViewModel());
+            //Debug.WriteLine(DataContext?.GetType().Name);
         }
     }
 }

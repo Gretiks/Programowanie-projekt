@@ -7,9 +7,13 @@ using System.Threading.Tasks;
 
 namespace VetManager.ViewModel
 {
-    class Owners : INotifyPropertyChanged
+    class Owners : PropertyChanger
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-        //tytaj wstawicie logikę wyświetlania właścicieli
+        private MainViewModel mainVm;
+
+        public Owners(MainViewModel mainVm)
+        {
+            this.mainVm = mainVm;
+        }
     }
 }

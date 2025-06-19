@@ -1,4 +1,5 @@
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Windows.Input;
 
 public class PropertyChanger : INotifyPropertyChanged
@@ -39,6 +40,7 @@ public class PropertyChanger : INotifyPropertyChanged
             
         field = value;
         OnPropertyChanged(propertyName);
+        Debug.WriteLine("Zmieniłem właściwość");
         return true;
     }
 }

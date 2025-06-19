@@ -26,12 +26,12 @@
             <view:AnimalView />
         </DataTemplate>
 
-        <DataTemplate DataType="{x:Type viewModel:Choice }" >
+        <DataTemplate DataType="{x:Type viewModel:Choice}">
             <view:ChoiceView />
         </DataTemplate>
 
         <DataTemplate DataType="{x:Type viewModel:Login}" >
-            <view:LoginView />
+            <view:LoginView/>
         </DataTemplate>
 
         <DataTemplate DataType="{x:Type viewModel:OwnersList}" >

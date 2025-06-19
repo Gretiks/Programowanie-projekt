@@ -22,7 +22,6 @@ namespace VetManager.View
         public AnimalListView()
         {
             InitializeComponent();
-            this.DataContext = new VetManager.ViewModel.Pets();
         }
     }
 }

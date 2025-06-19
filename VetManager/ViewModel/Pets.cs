@@ -7,9 +7,13 @@ using System.Threading.Tasks;
 
 namespace VetManager.ViewModel
 {
-    class Pets : INotifyPropertyChanged
+    class Pets : PropertyChanger
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-        //tutaj wstawicie logikę wyświetlania animali
+        private MainViewModel mainVm;
+
+        public Pets(MainViewModel mainVm)
+        {
+            this.mainVm = mainVm;
+        }
     }
 }

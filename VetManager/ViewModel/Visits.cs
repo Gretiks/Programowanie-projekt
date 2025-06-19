@@ -7,9 +7,13 @@ using System.Threading.Tasks;
 
 namespace VetManager.ViewModel
 {
-    class Visits : INotifyPropertyChanged
+    class Visits : PropertyChanger
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-        //tutaj wstawicie logikę wyświetlania wizyt
+        private MainViewModel mainVm;
+
+        public Visits(MainViewModel mainVm)
+        {
+            this.mainVm = mainVm;
+        }
     }
 }

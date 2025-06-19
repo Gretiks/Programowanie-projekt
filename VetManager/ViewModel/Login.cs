@@ -3,6 +3,7 @@ using System.Windows.Input;
 using VetManager.ViewModel.BaseClass;
 using MySql.Data.MySqlClient;
 using System.Diagnostics;
+using System.Windows;
 
 namespace VetManager.ViewModel
 {
@@ -75,16 +76,16 @@ namespace VetManager.ViewModel
 
                             if (dbmail == email && dbpassword == password)
                             {
+                                connection.Close();
                                 Debug.WriteLine("Dane poprawne, Logowanie");
                                 Warning = "";
-                                this.mainVm.ChangeView(new Choice());
-                                connection.Close();
+                                mainVm.CurrentView = new Choice(mainVm);
                             }
                             else
                             {
+                                connection.Close();
                                 Debug.WriteLine("Dane nie poprawne");
                                 Warning = "Nie poprawne dane logowania";
-                                connection.Close();
                             }
 
                         }

@@ -21,12 +21,7 @@ namespace VetManager.ViewModel
         public MainViewModel()
         {
             
-            CurrentView = new Login(this);
-        }
-
-        public void ChangeView(object viewModel)
-        {
-            CurrentView = viewModel;
+            CurrentView = new Choice(this);
         }
     }
 }
